@@ -13,7 +13,6 @@ dependencies:
   - nbresuse
   - nodejs
   - libgomp
-  - r-stats
   - r-irkernel
   - r-base>=3.6
   - r-tidyverse 
@@ -23,4 +22,4 @@ dependencies:
   - r-rpart
   - r-RSQLite
   - r-ggplot2
-  
+  - r-stats  
