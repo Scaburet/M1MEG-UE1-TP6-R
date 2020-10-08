@@ -22,4 +22,3 @@ dependencies:
   - r-rpart
   - r-RSQLite
   - r-ggplot2
-  - r-stats  
